@@ -1,0 +1,6 @@
+<items gfxroot="gfx/items/" deathanm2="gfx/death_items.anm2" version="1">
+    <passive id="0" name="Kok" gfx="kok_item.png" description="Huge kok" quality="3" cache="damage" />
+    <active id="1" name="Nuke" gfx="nuke_item.png" description="INCOMING!" quality="3" maxcharges="6" chargetype="normal" />
+    <passive id="2" name="Cocaine" gfx="cocaine_item.png" description="Sniff sniff..." quality="2" cache="damage speed" />
+    <passive id="3" name="Lab-Made Virus" gfx="lab-made_virus_item.png" description="Like all of them are..." quality="2" />
+</items>
